@@ -1,3 +1,3 @@
 # 2 Car Game
-## Two car is a simple game created by CSS and Html.
+## Two car is a simple game created with CSS and Html.
 Developed by Azadmanesh ...
